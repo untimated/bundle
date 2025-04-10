@@ -2,7 +2,9 @@
 
 1. go to root directory of this project
 2. ```npm install``` or ```yarn``` 
-2. ```npm run``` dev or ```yarn dev```
+2. ```npm run dev``` or ```yarn dev```
+
+![Screenshot 2025-04-10 224146](https://github.com/user-attachments/assets/214731bd-0dd4-4117-80a3-13d5d825f713)
 
 additional question :
 
