@@ -19,7 +19,7 @@ and to spot logic bugs faster (usually AI not that good at debugging logical err
 - What tradeoffs or shortcuts did you take?
 I cut all file splittings, and focus on single file (app) to reduce systemic bug like file linking.
 then i also utilizes tailwind for faster ui prototyping instead standard css (flexible but not enough time).
-I also think i misses some of optimizations and testing (unit) because of time panick :D
+I also think i missed some of the optimizations effort, plenty of bugs (like cancel after process finished) and testing because of time panick :D
 
 - What would you improve or add with more time?
 Improve the message queue in form of react hooks or module, or something that close to temporal / bullmq mechanism
